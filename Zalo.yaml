@@ -1,0 +1,14 @@
+# NAME: Zalo
+# AUTHOR: zhiqiang
+# REPO: https://github.com/zhiqiang02/rules
+# UPDATED: 2023-08-18 22:43:04
+payload:
+  - '+.zalo.me'
+  - '+.zadn.vn'
+  - '+.zdn.vn'
+  - maxcdn.bootstrapcdn.com
+  - qos.talk.zing.vn
+  - jr.zapps.vn
+  - jr.baomoi.com
+  - jr.zingmp3.vn
+  - jr.zaloapp.com
