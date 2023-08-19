@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,vn
   - DOMAIN-SUFFIX,zaloapp.com
   - DOMAIN-SUFFIX,wp.com
-  - DOMAIN-SUFFIX,+.baomoi.com
+  - DOMAIN-SUFFIX,baomoi.com
   - DOMAIN-SUFFIX,zalo.cloud
   - DOMAIN-SUFFIX,z-cdn.me
   - IP-CIDR,171.244.24.0/21,no-resolve
