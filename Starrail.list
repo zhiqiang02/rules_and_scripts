@@ -5,8 +5,11 @@
 DOMAIN,tqos-yun.anticheatexpert.com
 DOMAIN,globaldp-prod-os01.starrails.com
 DOMAIN,prod-official-asia-dp01.starrails.com
-IP-CIDR,8.209.241.99/32,no-resolve
 IP-CIDR,47.91.31.144/32,no-resolve
+
+IP-CIDR,8.209.192.0/18,no-resolve
+# 8.209.198.131/32
+# 8.209.241.99/32
 
 IP-CIDR,47.74.48.0/22,no-resolve
 # 47.74.48.153/32
