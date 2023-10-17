@@ -1,5 +1,5 @@
 # Only tw2 & PBE
 # Update: a long time ago
-IP-CIDR,103.240.224.128/26
-IP-CIDR,103.240.225.128/26
-IP-CIDR,192.64.170.0/26
+IP-CIDR,103.240.224.128/26,no-resolve
+IP-CIDR,103.240.225.128/26,no-resolve
+IP-CIDR,192.64.170.0/26,no-resolve
