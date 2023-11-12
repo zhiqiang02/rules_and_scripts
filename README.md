@@ -1,7 +1,5 @@
 # Rules
 
-gugugu ing
-
 ## surge
 
 **[Rule]**
