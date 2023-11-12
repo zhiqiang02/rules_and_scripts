@@ -2,7 +2,7 @@
 
 gugugu ing
 
-## surge usage
+## surge
 
 **[Rule]**
 
@@ -10,7 +10,7 @@ gugugu ing
 RULE-SET,https://raw.githubusercontent.com/../xxxx.list,policy
 ```
 
-## clash usage
+## clash
 
 **rule-providers:**
 
