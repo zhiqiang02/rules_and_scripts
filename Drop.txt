@@ -9,3 +9,6 @@ sg.bls.mdt.qq.com
 sdk.open.talk.gepush.com
 sdk.open.talk.getui.com
 sdk.open.talk.getui.net
+stun6.chat.bilibili.com
+data.bilibili.com
+dataflow.biliapi.com
