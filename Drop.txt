@@ -12,3 +12,5 @@ sdk.open.talk.getui.net
 stun6.chat.bilibili.com
 data.bilibili.com
 dataflow.biliapi.com
+app.adjust.net.in
+app.adjust.com
