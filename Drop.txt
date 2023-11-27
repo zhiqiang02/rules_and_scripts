@@ -14,3 +14,4 @@ data.bilibili.com
 dataflow.biliapi.com
 app.adjust.net.in
 app.adjust.com
+pingfore.qq.com
