@@ -4,3 +4,4 @@ nexitally.speedtestcustom.com
 www.speedtest.net
 hk-hkg12.speed.misaka.one
 ipv6-api.speedtest.net
+hk1.speedtest.gslnetworks.com.prod.hosts.ooklaserver.net
