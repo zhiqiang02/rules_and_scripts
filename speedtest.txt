@@ -1,3 +1,6 @@
 speed.cloudflare.com
 speedtestbb.hk.chinamobile.com
 nexitally.speedtestcustom.com
+www.speedtest.net
+hk-hkg12.speed.misaka.one
+ipv6-api.speedtest.net
