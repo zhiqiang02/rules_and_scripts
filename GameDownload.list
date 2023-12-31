@@ -1,6 +1,7 @@
 DOMAIN,autopatchhk.yuanshen.com
 DOMAIN,autopatchos.starrails.com
 DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,dyn.riotcdn.net
 # steam Guangzhou
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,dl.steam.clngaa.com
