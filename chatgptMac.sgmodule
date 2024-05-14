@@ -1,5 +1,5 @@
 #!name=ChatGPT MAC Unlock
-#!desc=解锁 ChatGPT Mac 版本测试账号限制，来自刘老师的X\n警告，有可能会导致账户被封禁，请谨慎使用！
+#!desc=解锁 ChatGPT Mac 版本测试账号限制，来自刘老师的X.\n警告，有可能会导致账户被封禁，请谨慎使用！
 
 [MITM]
 hostname = %APPEND% ab.chatgpt.com
