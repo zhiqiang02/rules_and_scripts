@@ -43,8 +43,9 @@ DOMAIN-SUFFIX,intercomcdn.com,
 # 上面这一条可能会误伤 👆🏻
 # ChatGPT App 的语音服务
 DOMAIN-SUFFIX,livekit.cloud,
-IP-CIDR,146.190.168.0/25,,no-resolve
-IP-CIDR,129.146.161.173/32,,no-resolve
+IP-CIDR,146.190.168.0/25,no-resolve
+IP-CIDR,129.146.0.0/16,no-resolve
+IP-CIDR,144.24.24.117/32,no-resolve
 # OpenAI的静态内容和用户内容，可能是证书相关内容
 DOMAIN-SUFFIX,oaiusercontent.com,
 DOMAIN-SUFFIX,oaistatic.com,
