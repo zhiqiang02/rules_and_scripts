@@ -44,3 +44,13 @@ DOMAIN,apidns.kwd.inkuai.com
 DOMAIN,hdns.ksyun.com
 DOMAIN,httpdns.upyun.com
 DOMAIN,httpdns.bcelive.com
+DOMAIN,httpdns.jdpay.com
+DOMAIN,httpdns.c.cdnhwc2.com
+DOMAIN,httpdns.kg.qq.com
+IP-CIDR,49.7.27.53/32,no-resolve
+IP-CIDR,61.49.99.67/32,no-resolve
+IP-CIDR,124.250.18.168/32,no-resolve
+IP-CIDR,111.13.134.172/32,no-resolve
+IP-CIDR,202.108.0.90/32,no-resolve
+IP-CIDR,123.126.43.245/32,no-resolve
+IP-CIDR,182.254.116.116/32,no-resolve
