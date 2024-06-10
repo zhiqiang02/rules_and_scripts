@@ -1,54 +1,12 @@
-# OpenAI 及相关 AI 产品的网站
-DOMAIN-SUFFIX,ai.com,
-DOMAIN-SUFFIX,claude.ai,
-DOMAIN-SUFFIX,anthropic.com,
-DOMAIN-SUFFIX,poe.com,
-DOMAIN-SUFFIX,psc2.cf2.poecdn.net,
-DOMAIN-KEYWORD,openai,
-DOMAIN-KEYWORD,openaicom,
-DOMAIN-KEYWORD,chatgpt,
-DOMAIN-SUFFIX,chat.openai.com,
-DOMAIN-SUFFIX,openai.com,
-# OpenAI的图片优化和交付服务
-DOMAIN-SUFFIX,openaicom.imgix.net,
-# 功能开关或实验性功能
-DOMAIN-SUFFIX,featuregates.org,
-# 支付渠道和验证
-DOMAIN-SUFFIX,stripe.com,
-DOMAIN,api.revenuecat.com,
-# 上面这一条可能会误伤 👆🏻
-# 人机验证相关
-DOMAIN-SUFFIX,client-api.arkoselabs.com,
-DOMAIN-SUFFIX,challenges.cloudflare.com,
-# 上面这一条可能会误伤 👆🏻
-# IdenTrust的数字证书和安全服务
-DOMAIN-SUFFIX,identrust.com,
-# sentry 数据采集
-DOMAIN-SUFFIX,o33249.ingest.sentry.io,
-# Statsig 数据分析
-DOMAIN-SUFFIX,events.statsigapi.net,
-DOMAIN-SUFFIX,api.statsig.com,
-# CDN
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,
-DOMAIN-SUFFIX,cdn.auth0.com,
-# Azure 的对象存储，主要用来下载聊天记录
-DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net,
-# Azure 的 CDN
-DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,
-DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net,
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net,
-# Intercom的客户沟通平台，不知道是干什么的
-DOMAIN-SUFFIX,intercom.io,
-DOMAIN-SUFFIX,intercomcdn.com,
-# 上面这一条可能会误伤 👆🏻
-# ChatGPT App 的语音服务
-DOMAIN-SUFFIX,livekit.cloud,
-IP-CIDR,146.190.168.0/25,no-resolve
-IP-CIDR,129.146.0.0/16,no-resolve
-IP-CIDR,144.24.24.117/32,no-resolve
-# OpenAI的静态内容和用户内容，可能是证书相关内容
-DOMAIN-SUFFIX,oaiusercontent.com,
-DOMAIN-SUFFIX,oaistatic.com,
-DOMAIN,browser-intake-datadoghq.com,
-IP-CIDR,24.199.123.28/32,,no-resolve
-IP-CIDR,64.23.132.171/32,,no-resolve
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
