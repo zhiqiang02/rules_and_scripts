@@ -5,6 +5,8 @@ DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,chatgpt-async-webps-prod-eastus-2.webpubsub.azure.com
+DOMAIN,chatgpt-async-webps-prod-centralus-2.webpubsub.azure.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
