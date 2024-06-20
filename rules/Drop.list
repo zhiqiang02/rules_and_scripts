@@ -41,5 +41,6 @@ DOMAIN,open.e.kuaishou.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,cn-yys-prod-logproxy.mhystatic.com
 DOMAIN,sdkstat-cn-ys.mhystatic.com
+DOMAIN,ys-log-upload.mihoyo.com
 IP-CIDR,123.183.232.81/32,no-resolve
 IP-CIDR,123.183.232.50/32,no-resolve
