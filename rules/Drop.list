@@ -37,3 +37,7 @@ DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,get.shouji.sogou.com
 DOMAIN,tmead.y.qq.com
+DOMAIN,open.e.kuaishou.com
+DOMAIN,open.e.kuaishou.cn
+IP-CIDR,123.183.232.81/32,no-resolve
+IP-CIDR,123.183.232.50/32,no-resolve
