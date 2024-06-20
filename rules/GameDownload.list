@@ -39,3 +39,15 @@ DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,autopatchhk.yuanshen.com
 DOMAIN,autopatchos.starrails.com
+IP-CIDR,203.77.191.0/32,no-resolve
+IP-CIDR,184.26.127.153/32,no-resolve
+IP-CIDR,42.99.140.42/32,no-resolve
+IP-CIDR,42.99.140.51/32,no-resolve
+IP-CIDR,199.232.210.172/32,no-resolve
+IP-CIDR,199.232.214.172/32,no-resolve
+IP-CIDR,23.202.34.250/32,no-resolve
+IP-CIDR,184.26.91.169/32,no-resolve
+IP-CIDR,42.99.128.186/32,no-resolve
+IP-CIDR,2.19.205.57/32,no-resolve
+IP-CIDR,42.99.128.154/32,no-resolve
+DOMAIN-SUFFIX,s.loris.llnwd.net
