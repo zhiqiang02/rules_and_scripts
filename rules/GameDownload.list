@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,dyn.riotcdn.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN,autopatchhk.yuanshen.com
 DOMAIN,autopatchos.starrails.com
+DOMAIN,autopatchos.zenlesszonezero.com
 DOMAIN-SUFFIX,s.loris.llnwd.net
 IP-CIDR,2.19.205.57/32,no-resolve
 IP-CIDR,23.202.34.250/32,no-resolve
