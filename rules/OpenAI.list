@@ -14,6 +14,3 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,livekit.cloud
-IP-CIDR,137.184.91.53/32,no-resolve
-IP-CIDR,143.110.158.40/32,no-resolve
-IP-CIDR,144.126.222.170/32,no-resolve
