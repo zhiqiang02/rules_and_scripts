@@ -1,3 +1,6 @@
+# author: 非正常人类研究中心
+# 防止DNS泄漏
+
 # 你猜为什么会有这个规则集呢?
 
 # DNS Leak from Shadowrocket Default
