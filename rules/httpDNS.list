@@ -47,6 +47,7 @@ DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.jdpay.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.kg.qq.com
+DOMAIN,lf3-static.bytednsdoc.com
 IP-CIDR,49.7.27.53/32,no-resolve
 IP-CIDR,61.49.99.67/32,no-resolve
 IP-CIDR,124.250.18.168/32,no-resolve
