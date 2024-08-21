@@ -43,5 +43,6 @@ DOMAIN,cn-yys-prod-logproxy.mhystatic.com
 DOMAIN,sdkstat-cn-ys.mhystatic.com
 DOMAIN,ys-log-upload.mihoyo.com
 DOMAIN,pds-app-cn-beijing.cn-beijing.log.aliyuncs.com
+DOMAIN,cn-beijing.log.aliyuncs.com
 IP-CIDR,123.183.232.81/32,no-resolve
 IP-CIDR,123.183.232.50/32,no-resolve
