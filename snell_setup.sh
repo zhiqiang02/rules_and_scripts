@@ -41,4 +41,4 @@ systemctl start snell-server
 systemctl enable snell-server
 
 IP=$(curl -4 -s ifconfig.me || curl -6 -s ifconfig.me)
-echo "Snell_Server = snell,$IP,$PORT,psk=$PSK,version=${VERSION:0:1}, tfo=true"
+echo "Snell_Server = snell,$IP,$PORT,psk=$PSK,version=${VERSION:0:1},tfo=true"
