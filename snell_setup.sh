@@ -1,7 +1,7 @@
 apt update
 apt install -y curl unzip
 
-VERSION="5.0.0b1"
+VERSION="5.0.0b2"
 PORT=$(( RANDOM % 64512 + 1024 ))
 PSK=$(tr -dc 'A-Za-z0-9' < /dev/urandom | head -c 31)
 
