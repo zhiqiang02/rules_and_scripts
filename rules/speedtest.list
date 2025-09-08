@@ -8,6 +8,9 @@ DOMAIN,speedtest.ideatek.com
 DOMAIN,speedtest2.ideatek.com
 DOMAIN,speedtest.rd.ks.cox.net
 DOMAIN,www.cloudflare.com
+DOMAIN,aim.cloudflare.com
+DOMAIN,platform.dash.cloudflare.com
+DOMAIN,turn.cloudflare.com
 DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,prod.hosts.ooklaserver.net
 DOMAIN-SUFFIX,speedtestcustom.com
