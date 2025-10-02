@@ -18,7 +18,7 @@ psk = $PSK
 ipv6 = false
 EOF
 
-cat > /etc/systemd/system/snell-server.service << EOF
+cat > /etc/systemd/system/snell.service << EOF
 [Unit]
 Description=Snell Server Service
 After=network-online.target
@@ -37,8 +37,8 @@ WantedBy=multi-user.target
 EOF
 
 systemctl daemon-reload
-systemctl start snell-server
-systemctl enable snell-server
+systemctl start snell
+systemctl enable snell
 
 IP=$(curl -4 -s ifconfig.me || curl -6 -s ifconfig.me)
 echo "Snell_Server = snell,$IP,$PORT,psk=$PSK,version=${VERSION:0:1},tfo=true"
