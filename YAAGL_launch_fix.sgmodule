@@ -1,0 +1,11 @@
+#!name=YAAGL Launch Fix
+#!desc=
+#!system=mac
+#!category=
+#!author=zhiqiang
+
+[MITM]
+hostname = %APPEND% dispatchosglobal.yuanshen.com, globaldp-prod-os01.starrails.com
+
+[Rule]
+URL-REGEX,(starrails|yuanshen)\.com\/query_security_file,REJECT
